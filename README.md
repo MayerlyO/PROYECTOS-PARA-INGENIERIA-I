@@ -5,3 +5,11 @@ Bienvenidos a mi repositorio de GitHub. Aquí encontrarás todo sobre mi proyect
 En este repositorio, podrás explorar el código, los datos y la documentación que respaldan este esfuerzo. Si tienes algún comentario o sugerencia, no dudes en dejarme tu feedback.
 
 ¡Espero que lo encuentres interesante y útil!
+
+
+|            NOMBRE            |            CORREO          |
+|------------------------------|----------------------------|
+| Iory Estefani Huarca Astete  | iory.huarca@upch.pe        | 
+| Meyli Flores Huaman  | meyli.flores@upch.pe     |
+| Marco Antoni Mendoza Canaza | marco.mendoza.canaza@upch.pe |
+| Mayerly Orosco Taype | mayerly.orosco@upch.pe |
