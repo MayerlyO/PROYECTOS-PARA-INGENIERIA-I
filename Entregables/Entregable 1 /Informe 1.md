@@ -5,6 +5,10 @@
 
 ## *Introducción*
 
+Los materiales particulados, como el PM2.5 (partículas con un diámetro menor a 2.5 micrómetros, µm), son un factor clave para evaluar la calidad del aire en una zona específica. Estas partículas afectan la salud debido a sus características toxicológicas, las cuales varían según su origen y composición química [1]. Investigaciones han demostrado que la exposición prolongada a partículas en suspensión (PM) en el aire puede estar relacionada con la mortalidad infantil posneonatal, especialmente en casos de problemas respiratorios y el síndrome de muerte súbita del lactante (SMSL) en California [2]. Por esta razón, diversos estudios se centran en implementar y evaluar estrategias para reducir los elevados niveles de material particulado (PM2.5) en el centro de California [3].
+
+Frente a esta problemática nuestro equipo de trabajo realizó una regresión lineal para examinar cómo las fluctuaciones en los niveles de PM2.5 influyen en el AQI en California. Esta herramienta estadística facilita el modelado de la relación entre variables, permitiendo cuantificar la influencia directa del PM2.5 sobre el AQI. La aplicación de la regresión lineal ayudará a identificar tendencias y patrones, proporcionando una visión clara de cómo varía la calidad del aire con las concentraciones de PM2.5. Además, el desarrollo de modelos predictivos permitirá anticipar cómo podría evolucionar la calidad del aire, un aspecto crucial en un entorno tan dinámico como el de California.
+
 
 ## *Metodología*
 ### *1. Importación de Librerías*
@@ -62,5 +66,11 @@ Este análisis evaluó la calidad del aire en California mediante el estudio de 
 Los resultados confirmaron la esperada correlación positiva entre la concentración de PM 2.5 y el AQI, validando la metodología empleada y reforzando la idea de que mayores niveles de PM 2.5 están asociados con una peor calidad del aire. El modelo de regresión lineal presentó un rendimiento adecuado con un R² (0.98) que indica un buen ajuste a los datos de 2022. No obstante, al evaluar con los datos de 2023, se evidenció que la capacidad predictiva del modelo puede variar de un año a otro, lo que sugiere la presencia de patrones no completamente capturados por un modelo lineal sencillo. Al aplicar el modelo de 2022 a los datos de 2023, se observó que su capacidad predictiva fue moderada; aunque mostró consistencia general. Además, otros factores podrían estar influyendo en las mediciones del AQI, requiriendo posiblemente un modelo más complejo o la inclusión de variables adicionales para mejorar la precisión.
 
 ## *Referencias*
+
+[1] Meza, L. M., Quintero, M., García, R., & Ramírez, J. (2010). Estimación de factores de emisión de PM10 y PM2. 5, en vías urbanas en Mexicali, Baja California, México. Información tecnológica, 21(4), 45-56.
+
+[2] Woodruff, T. J., Parker, J. D., & Schoendorf, K. C. (2006). Fine particulate matter (PM2. 5) air pollution and selected causes of postneonatal infant mortality in California. Environmental health perspectives, 114(5), 786-790.
+
+[3] Chow, J. C., Chen, L. W. A., Watson, J. G., Lowenthal, D. H., Magliano, K. A., Turkiewicz, K., & Lehrman, D. E. (2006). PM2. 5 chemical composition and spatiotemporal variability during the California Regional PM10/PM2. 5 Air Quality Study (CRPAQS). Journal of Geophysical Research: Atmospheres, 111(D10).
 
 
