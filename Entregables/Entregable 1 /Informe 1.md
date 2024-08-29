@@ -46,6 +46,15 @@ Una vez que el modelo fue entrenado y evaluado, se usó para predecir los valore
 
 ## *Resultados*
 [Colab_ Regresión Lineal_ GRUPO 9](https://colab.research.google.com/drive/10S0VaYjtLfpBDIcDJ3DkEwyBSqU3xMDu?usp=sharing)
+
+*Error absoluto medio (MAE):  1.42*
+
+*Error cuadrático medio (MSE):  3.09*
+
+*Puntaje R²:  0.98*
+
+*Precisión del modelo: 86.67%*
+
 ## *Discusión*
 
 Este análisis evaluó la calidad del aire en California mediante el estudio de las concentraciones de PM 2.5, comparando datos de 2022 y 2023, y utilizando un modelo de regresión lineal para predecir el Índice de Calidad del Aire (AQI). Se emplearon gráficos de dispersión para visualizar la relación entre PM 2.5 y AQI, confirmando una correlación positiva entre estas variables, lo cual es coherente con la teoría, ya que el AQI refleja la calidad del aire en función de contaminantes como el PM 2.5. Para el modelado y las predicciones, se entrenó un modelo de regresión lineal con los datos de 2022, considerando la concentración media diaria de PM 2.5 (Daily Mean PM2.5 Concentration) como variable independiente y el valor diario del AQI (Daily AQI Value) como dependiente. Asimismo, el modelo mostró un buen ajuste con un coeficiente de determinación (R²) de 0.98.
