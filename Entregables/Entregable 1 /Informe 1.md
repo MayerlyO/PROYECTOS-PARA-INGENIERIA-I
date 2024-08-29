@@ -45,7 +45,7 @@ Se utilizaron “matplotlib” y “seaborn” para generar gráficos que ilustr
 Una vez que el modelo fue entrenado y evaluado, se usó para predecir los valores del AQI para 2024, basado en las concentraciones de PM2.5 esperadas o proyectadas para ese año y finalmente se utilizó “joblib” para guardar el modelo entrenado, permitiendo su reutilización para futuras predicciones sin necesidad de entrenarlo nuevamente.
 
 ## *Resultados*
-
+[Colab_ Regresión Lineal_ GRUPO 9](https://colab.research.google.com/drive/10S0VaYjtLfpBDIcDJ3DkEwyBSqU3xMDu?usp=sharing)
 ## *Discusión*
 
 Este análisis evaluó la calidad del aire en California mediante el estudio de las concentraciones de PM 2.5, comparando datos de 2022 y 2023, y utilizando un modelo de regresión lineal para predecir el Índice de Calidad del Aire (AQI). Se emplearon gráficos de dispersión para visualizar la relación entre PM 2.5 y AQI, confirmando una correlación positiva entre estas variables, lo cual es coherente con la teoría, ya que el AQI refleja la calidad del aire en función de contaminantes como el PM 2.5. Para el modelado y las predicciones, se entrenó un modelo de regresión lineal con los datos de 2022, considerando la concentración media diaria de PM 2.5 (Daily Mean PM2.5 Concentration) como variable independiente y el valor diario del AQI (Daily AQI Value) como dependiente. Asimismo, el modelo mostró un buen ajuste con un coeficiente de determinación (R²) de 0.98.
