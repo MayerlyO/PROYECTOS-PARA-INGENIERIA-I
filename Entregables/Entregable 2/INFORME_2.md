@@ -3,3 +3,4 @@
 
   # <h1 align="center">*Entregable N° 2: Redes Neuronales Convolucionales*
 
+LINK DEL COLAB: https://drive.google.com/file/d/1N801MtYWA29x6xMqixfOs4DG4f2FogkH/view?usp=sharing
