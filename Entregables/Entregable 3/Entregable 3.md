@@ -1,4 +1,4 @@
-# _INFORME DE LABORATORIO 03: Tiny Machine Learning con Edge Impulse📑_
+# _INFORME 03: Tiny Machine Learning con Edge Impulse📑_
 
 ## Docentes:👨‍🏫
 - Mg Umbert Lewis De La Cruz
@@ -20,10 +20,16 @@ La integración de este modelo en el Arduino Nano 33 BLE Sense se basa en tres c
 - **LED Rojo**: Se enciende al dibujar un círculo.
 - **LED Azul**: Se activa al representar el número 3.
 - **LED Verde**: Se ilumina al trazar el número 1.
+
 Cada una de estas acciones desencadena una respuesta luminosa en el dispositivo, creando una interacción única y visualmente atractiva.
 A lo largo de este informe se detallarán los procedimientos de desarrollo, desde la recolección de datos hasta la implementación del modelo en el hardware, así como los resultados obtenidos y las conclusiones alcanzadas. 
+
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdata.org%2Forganizations%2Funiversidad-peruana-cayetano-heredia%2F&psig=AOvVaw0VhCsKlWPKFnMFxBXGHho-&ust=1726097889676000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiW5u7FuYgDFQAAAAAdAAAAABAj" alt="UPCH" style="width:100px;"/>
+    Proyecto TinyML con Edge Impulse y Arduino Nano 33 BLE Sense
+
 ### 2. Procesamiento de datos:
 ### 3. Ejecución del modelo:
 ### 3. Resultados:
 ### 4. Discusión:
 ### 5. Bibliografía:
+1. Capogrosso, L., Cunico, F., Cheng, DS, Fummi, F. y Cristani, M. (2024). Una encuesta orientada al aprendizaje automático sobre el aprendizaje automático en miniatura. IEEE Access . 
