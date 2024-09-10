@@ -8,10 +8,10 @@
 - Ing. Juan Manuel Zuñiga Mamani
 - Ing. Renzo José Chan Ríos
 ## Integrantes📊
-- Flores Huaman Meyli 
-- Huarca Astete Iory Estefani
-- Mendoza Canaza Marco Antonio
-- Orosco Taype Mayerly Nicole
+- Flores Huaman, Meyli 
+- Huarca Astete, Iory Estefani
+- Mendoza Canaza, Marco Antonio
+- Orosco Taype, Mayerly Nicole
 
 ### 1. Introducción:
 El aprendizaje automático (ML) ha tenido un impacto significativo en varios campos, incluidos la visión, el lenguaje y el audio, puesto que permite ejecutar modelos avanzados de inteligencia artificial en dispositivos embebidos y de bajo consumo energético [1]. Con Edge Impulse, una plataforma que facilita la creación y despliegue de estos modelos, podemos entrenar sistemas para realizar tareas complejas como el reconocimiento de voz sin depender de la nube. TinyML democratiza el acceso al machine learning, integrándose en el hardware más simple, lo que nos permite llevar la inteligencia artificial al "borde" de la tecnología, donde se necesita más autonomía y rapidez.
@@ -25,5 +25,5 @@ A lo largo de este informe se detallarán los procedimientos de desarrollo, desd
 ### 2. Procesamiento de datos:
 ### 3. Ejecución del modelo:
 ### 3. Resultados:
-### 4. Discución:
+### 4. Discusión:
 ### 5. Bibliografía:
