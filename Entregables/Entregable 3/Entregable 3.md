@@ -1,7 +1,5 @@
 ![Logo upch]("C:\Users\hp\Downloads\logo-OFICIAL.jpg")
 
-# Proyecto TinyML con Edge Impulse y Arduino Nano 33 BLE Sense
-
 # _INFORME 03: Tiny Machine Learning con Edge Impulse📑_
 
 ## Docentes:👨‍🏫
