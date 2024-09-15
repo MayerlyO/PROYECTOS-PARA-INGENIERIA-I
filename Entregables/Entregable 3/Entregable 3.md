@@ -72,6 +72,22 @@ Pasamos a probar el modelo realizado en Edge Impulse para comprobar si este pred
 #### 3.1 Video prueba del TRES
 
 
+https://github.com/user-attachments/assets/9a4ba1ed-a7ee-424f-b939-3bb1db909119
+
+#### 3.1 Video prueba del CÍRCULO
+
+
+
+https://github.com/user-attachments/assets/505a39d3-ccda-4e41-9c34-ea3aba13a055
+
+#### 3.1 Video prueba del UNO
+
+
+
+https://github.com/user-attachments/assets/03353dad-493e-4efb-8242-174be5bdbf69
+
+Como se puede apreciar, sí reconocen las figuras que se dibuja con el ARDUINO. 
+
 
 ### 4. Discusión:
 En la actualidad, la inteligencia artificial se puede encontrar cada vez en un mayor número de dispositivos sin que los usuarios sean conscientes de ello, un ejemplo es el uso de una palabra o gesto para activar un dispositivo y ejecutar acciones más complejas, puesto que el aprendizaje automático ha revolucionado nuestra forma de interactuar con la tecnología, especialmente en el ámbito de los dispositivos embebidos [2]. En este reto, trabajamos con el Arduino Nano 33 BLE Sense, experimentamos de primera mano cómo esta placa puede ejecutar modelos de inteligencia artificial para reconocer comandos de gestos. Sin embargo, no todo fue un camino fácil. La recolección y preparación de datos fue un desafío significativo; tuvimos que asegurarnos de que los datos fueran representativos y bien etiquetados, lo que requirió mucho tiempo y esfuerzo en equipo. 
