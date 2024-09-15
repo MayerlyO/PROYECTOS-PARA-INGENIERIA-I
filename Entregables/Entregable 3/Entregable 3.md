@@ -1,4 +1,5 @@
-![Logo upch]("C:\Users\hp\Downloads\logo-OFICIAL.jpg")
+<p align="left">
+  <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="200">
 
 # _INFORME 03: Tiny Machine Learning con Edge Impulse📑_
 
@@ -30,7 +31,19 @@ A lo largo de este informe se detallarán los procedimientos de desarrollo, desd
 
 
 
-### 2. Procesamiento de datos:
+### 2. Metodología:
+En este apartado, explicaremos a detalle el proceso que seguimos para cumplir con el reto planteado. 
+
+#### 2.1 Obtención y preparación de los datos:
+- Dispositivos usados: Se utilizó un Arduino Nano 33 BLE Sense, que tiene sensores como el acelerómetro (acc), el giroscopio (gyr) y el magnetómetro (mag), para capturar los movimientos que se asocian a los gestos de dibujo (círculo, número 1 y  número 3).
+<table>
+  <tr>
+    <th width="50%"><img src="" width="340" height="500"></th>
+    <th width="50%" align="justify" >El Arduino Nano 33 BLE es una placa compacta y potente ideal para proyectos de Internet de las Cosas (IoT). Con un microcontrolador y conectividad Bluetooth, lo que permite una comunicación eficiente. Este incluye sensores como un acelerómetro y un giroscopio. Su fácil programación en el entorno de Arduino lo hace accesible. En este caso lo emplearemos para reconocimiento de señales y recibiremos una interacción luminosa.</th>
+  </tr>
+</table>
+
+
 ### 3. Ejecución del modelo:
 ### 3. Resultados:
 ### 4. Discusión:
