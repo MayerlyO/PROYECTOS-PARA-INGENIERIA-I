@@ -68,6 +68,8 @@ El análisis espectral nos permitió extraer características útiles de los dat
   <img src="https://github.com/MayerlyO/PROYECTOS-PARA-INGENIERIA-I/blob/main/Entregables/Entregable%203/Im%C3%A1genes/E3_4.jpg"width="450"> <br><br>
 
 ### 3. Resultados:
+Pasamos a probar el modelo realizado en Edge Impulse para comprobar si este predice correctamente las figuras que estamos dibujando con el ARDUINO NANO 33 BLE SENSE. <br><br>
+#### 3.1 Video prueba del TRES
 
 
 
