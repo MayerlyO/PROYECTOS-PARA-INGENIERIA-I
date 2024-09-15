@@ -38,10 +38,14 @@ En este apartado, explicaremos a detalle el proceso que seguimos para cumplir co
 - Dispositivos usados: Se utilizó un Arduino Nano 33 BLE Sense, que tiene sensores como el acelerómetro (acc), el giroscopio (gyr) y el magnetómetro (mag), para capturar los movimientos que se asocian a los gestos de dibujo (círculo, número 1 y  número 3).
 <table>
   <tr>
-    <th width="50%"><img src="" width="340" height="500"></th>
+    <th width="50%"><img src="https://github.com/MayerlyO/PROYECTOS-PARA-INGENIERIA-I/blob/main/Entregables/Entregable%203/Im%C3%A1genes/arduino_nano_33_ble.jpg" width="280" height="280"> <br> Arduino NANO 33 BLE Sense [Fotografía]. (s.f.)</th>
     <th width="50%" align="justify" >El Arduino Nano 33 BLE es una placa compacta y potente ideal para proyectos de Internet de las Cosas (IoT). Con un microcontrolador y conectividad Bluetooth, lo que permite una comunicación eficiente. Este incluye sensores como un acelerómetro y un giroscopio. Su fácil programación en el entorno de Arduino lo hace accesible. En este caso lo emplearemos para reconocimiento de señales y recibiremos una interacción luminosa.</th>
   </tr>
-</table>
+</table><br>
+
+- Serie de tiempo: Como se observa en la sigueinte imagen, los datos de la serie de tiempo capturados incluyen 9 ejes de datos (accX, accY, accZ, gyrX, gyrY, gyrZ, magX, magY, magZ), que miden diferentes aspectos del movimiento y la orientación del dispositivo.De igual modo se puede observar una sección  donde se logró definir el tamaño de ventana de 3010 ms con un incremento de ventana de 200 ms. Esto significa que los datos se recogen en intervalos de 3 segundos con una frecuencia de muestreo de 100 Hz.
+<p align="center">
+  <img src="" width="200">
 
 
 ### 3. Ejecución del modelo:
