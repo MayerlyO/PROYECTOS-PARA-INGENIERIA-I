@@ -15,3 +15,5 @@
 - Huarca Astete, Iory Estefani
 - Mendoza Canaza, Marco Antonio
 - Orosco Taype, Mayerly Nicole
+- Villarreal Zapata, Liz 
+
