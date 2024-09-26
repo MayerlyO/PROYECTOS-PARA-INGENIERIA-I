@@ -16,3 +16,8 @@
 - Mendoza Canaza, Marco Antonio
 - Orosco Taype, Mayerly Nicole
 - Villarreal Zapata, Liz 
+
+## 3. RESULTADOS
+### a) MKR WIFI 1010
+#### Creación del DashBoard en Arduino Cloud
+![5_1](https://github.com/user-attachments/assets/2d944c56-d834-403b-a038-52af72f1a2e9)
