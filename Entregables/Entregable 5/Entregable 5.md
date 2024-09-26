@@ -256,15 +256,18 @@ https://github.com/user-attachments/assets/17b21164-2fa2-49b5-b5d2-1610a7e190a2
 #### Ejemplo 03: Enviando datos a la nube
 <p align="center"> <img src="https://github.com/user-attachments/assets/8c0b7b8d-8a30-4995-b7a5-9e9e60dacfac" width="700">
 <p align="center"> <img src="https://github.com/user-attachments/assets/ae209a1e-54a8-4fa6-a998-b77e6230fc4f" width="700">
-<p align="center"> <img src="https://github.com/user-attachments/assets/c6f09720-3d10-4df4-9821-a4de3bd298c0" widht="700">
+<p align="center"> <img src="https://github.com/user-attachments/assets/6953b624-e970-4d72-8de4-9e0cfe5762f5" width="700">
 
 
 ## 4. DISCUSIÓN DE RESULTADOS
-
+### 4.1 KIT IoT EXPLORE
 En esta práctica, implementamos un sistema con el Arduino MKR IoT Carrier y varios sensores, explorando cómo el Internet de las Cosas (IoT) puede ser aplicado en diferentes áreas tecnológicas. A lo largo del taller, trabajamos con un sensor de humedad y un relé para controlar un LED, gestionando la recolección de datos y el control remoto a través de Arduino Cloud. Esta experiencia nos permitió comprender cómo la tecnología IoT puede optimizar procesos en campos como la automatización del hogar, el monitoreo ambiental, la gestión de infraestructuras, y la industria manufacturera. Al conectar los dispositivos a la nube, pudimos visualizar los datos en tiempo real y tomar decisiones basadas en esa información, demostrando cómo la IoT facilita la integración de sensores y actuadores en sistemas inteligentes​(TALLER 1).
 
 Lo que más nos llamó la atención fue la combinación de hardware y software para controlar dispositivos de manera eficiente. Aunque utilizamos el relé únicamente para encender un LED, esto me permitió entender su potencial en aplicaciones más complejas, como el control de iluminación o ventilación en casas inteligentes o industrias. La posibilidad de monitorear el entorno y automatizar respuestas ante cambios en los datos —como encender el LED cuando ciertos valores cambian— nos mostró cómo la IoT puede crear sistemas autónomos que optimizan las decisiones. Esta práctica no solo cumplió con los objetivos de aprendizaje, sino que también nos demostró el impacto que la IoT puede tener en diversas industrias, mejorando la eficiencia y la toma de decisiones en tiempo real​(TALLER 1).
 
+### 4.2 ESP32 
 
+Los resultados obtenidos con el ESP32 demostraron su capacidad eficiente para conectarse a redes WiFi y transmitir datos en tiempo real a plataformas IoT en la nube. El dispositivo mostró una rápida conexión a la red, permitiendo la transmisión fluida de datos mediante protocolos ligeros como MQTT. La conexión a plataformas facilitó el almacenamiento y análisis de datos, destacando su utilidad en el monitoreo continuo y control remoto. La escalabilidad y las capacidades de automatización fueron puntos fuertes, mejorando la gestión de grandes volúmenes de información. Sin embargo, el rendimiento dependió de la calidad de la señal WiFi, lo que puede ser un factor limitante en entornos con conectividad inestable. En general, la capacidad del ESP32 para integrarse de manera eficiente en soluciones IoT y enviar datos en tiempo real representa un avance significativo para diversas aplicaciones industriales, ambientales y domésticas
 
+## 5. CONCLUSIONES
 
