@@ -245,6 +245,20 @@ https://github.com/user-attachments/assets/99fc4148-266e-4313-aeb1-b4fa8562fce3
 
 https://github.com/user-attachments/assets/17b21164-2fa2-49b5-b5d2-1610a7e190a2
 
+### b) ESP32
+#### Ejemplo 01: Lectura de un potenciómetro con ESP32
+<p align="center"> <img src="https://github.com/user-attachments/assets/bf02e2ec-9cb2-4946-88f1-85c82e2b126e" width="700">
+
+#### Ejemplo 02: Scanner WIFI con ESP32
+<p align="center"> <img src="https://github.com/user-attachments/assets/5454fa51-adbb-4b1a-93f8-0fe041e62404" width="700">
+<p align="center"> <img src="https://github.com/user-attachments/assets/f24fed69-4f96-4c52-9d64-35b04a77dbc8" width="700">
+
+#### Ejemplo 03: Enviando datos a la nube
+<p align="center"> <img src="https://github.com/user-attachments/assets/8c0b7b8d-8a30-4995-b7a5-9e9e60dacfac" width="700">
+<p align="center"> <img src="https://github.com/user-attachments/assets/ae209a1e-54a8-4fa6-a998-b77e6230fc4f" width="700">
+<p align="center"> <img src="https://github.com/user-attachments/assets/c6f09720-3d10-4df4-9821-a4de3bd298c0" widht="700">
+
+
 ## 4. DISCUSIÓN DE RESULTADOS
 
 En esta práctica, implementamos un sistema con el Arduino MKR IoT Carrier y varios sensores, explorando cómo el Internet de las Cosas (IoT) puede ser aplicado en diferentes áreas tecnológicas. A lo largo del taller, trabajamos con un sensor de humedad y un relé para controlar un LED, gestionando la recolección de datos y el control remoto a través de Arduino Cloud. Esta experiencia nos permitió comprender cómo la tecnología IoT puede optimizar procesos en campos como la automatización del hogar, el monitoreo ambiental, la gestión de infraestructuras, y la industria manufacturera. Al conectar los dispositivos a la nube, pudimos visualizar los datos en tiempo real y tomar decisiones basadas en esa información, demostrando cómo la IoT facilita la integración de sensores y actuadores en sistemas inteligentes​(TALLER 1).
