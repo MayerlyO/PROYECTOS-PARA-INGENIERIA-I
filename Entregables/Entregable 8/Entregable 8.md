@@ -93,6 +93,7 @@ El ML8511 funciona emitiendo una señal analógica proporcional a la cantidad de
 - **Consumo de Energía**: Muy bajo, lo que lo hace ideal para dispositivos portátiles.
 - **Facilidad de Integración**: La salida de voltaje se puede conectar directamente al convertidor analógico/digital (A/D) de un microcontrolador, eliminando la necesidad de circuitos de conversión fotoeléctrica adicionales.
 
+
 **:seedling: SINTESIS DE INFORMACIÓN:**
 
 | DHT22: Sensor de Temperatura y Humedad           | MS5611: Sensor de Presión Barométrica y Altitud | ML8511: Sensor de Radiación UV                     |
@@ -102,6 +103,7 @@ El ML8511 funciona emitiendo una señal analógica proporcional a la cantidad de
 | Medición precisa de temperatura y humedad        | Interfaz digital (I2C/SPI) para fácil integración | Útil para aplicaciones de salud y seguridad        |
 | Salida digital simple para microcontroladores    | Ideal para aplicaciones meteorológicas            | Compacto y fácil de integrar en sistemas portátiles|
 | Amplio rango de medición                         | Compacto y ligero                                 | Bajo consumo de energía                            |
+
 
 
 
