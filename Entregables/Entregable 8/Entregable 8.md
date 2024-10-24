@@ -104,6 +104,7 @@ El ML8511 funciona emitiendo una señal analógica proporcional a la cantidad de
 
 
 **:seedling: FUENTES BIBLIOGRÁFICAS:**
+
 Adafruit. (n.d.). DHT22 (AM2302) temperature-humidity sensor. https://learn.adafruit.com/dht/overview
 
 SparkFun. (n.d.). DHT22 (AM2302) temperature and humidity sensor. https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
