@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="200">
 
-# _INFORME 08: TRL 1 PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACION DEL PROYECTO._          
+# _INFORME 08: TRL 1 PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACIÓN DEL PROYECTO._          
 En un mundo interconectado, los sensores son herramientas esenciales para el monitoreo y la recopilación de datos en tiempo real. En el contexto de nuestro proyecto, que se centra en los principios básicos de los sensores en la implementación del monitoreo, estos dispositivos permiten medir parámetros críticos, desde la temperatura hasta la calidad del aire. Esto no solo facilita la toma de decisiones informadas, sino que también potencia soluciones innovadoras en áreas como la agricultura y la salud. Este informe explorará los fundamentos de los sensores (TRL 1) y su relevancia en nuestro proyecto, destacando su capacidad para transformar industrias y mejorar la calidad de vida.
 
 
