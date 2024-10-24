@@ -6,10 +6,10 @@ En un mundo interconectado, los sensores son herramientas esenciales para el mon
 
 
 ## 1. DHT22: Sensor de Temperatura y Humedad
-| **MS5611: Sensor de Presión Barométrica y Altitud**                                                                                       | ![Sensor MS5611](https://github.com/user-attachments/assets/8180267e-f3c2-48dc-ad33-045c09405c13)                          |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| El **MS5611** se basa en la relación entre la presión atmosférica y la altitud, permitiendo convertir la presión en una medida útil para determinar la altura sobre el nivel del mar. |                                                                                                                               |
 
+| DHT22: Sensor de Temperatura y Humedad                                                                                       | ![SENSOR DE T Y H](https://github.com/user-attachments/assets/f85e4d5f-ea92-43c5-acd4-f56f5bd310de)                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| El **DHT22** permite monitorear temperatura y humedad relativa de forma precisa y sencilla a un bajo precio. La salida suministrada es de tipo digital, no requiriéndose utilizar entradas analógicas. |                                                                                                                               |
 
 ### Funcionamiento del DHT22
 
@@ -120,6 +120,8 @@ El ML8511 funciona emitiendo una señal analógica proporcional a la cantidad de
 
 **:seedling: FUENTES BIBLIOGRÁFICAS:**
 
+Sensor Altitud Presion Barometrica y Temperatura GY-63 MS5611 I2C. (s/f). Robot Electronica. Recuperado el 24 de octubre de 2024, de https://robot.com.ve/product/sensor-altitud-presion-barometrica-y-temperatura-gy-63-ms5611-i2c/
+
 Adafruit. (n.d.). DHT22 (AM2302) temperature-humidity sensor. https://learn.adafruit.com/dht/overview
 
 SparkFun. (n.d.). DHT22 (AM2302) temperature and humidity sensor. https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
@@ -132,3 +134,4 @@ SparkFun. (n.d.). ML8511 UV sensor. https://www.sparkfun.com/datasheets/Sensors/
 
 Adafruit. (n.d.). ML8511 - UV light sensor. https://learn.adafruit.com/ml8511-uv-light-sensor/overview
 
+Sensor de presión MS5611 - Altímetro Barómetro. (s. f.). Naylamp Mechatronics - Perú. https://naylampmechatronics.com/sensores-posicion-inerciales-gps/731-sensor-de-presion-ms5611-altimetro-barometro.html
