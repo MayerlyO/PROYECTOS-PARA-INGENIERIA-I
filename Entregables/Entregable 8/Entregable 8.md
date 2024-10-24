@@ -2,9 +2,14 @@
   <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="200">
 
 # _INFORME 08: TRL 1 PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACION DEL PROYECTO._          
+En un mundo interconectado, los sensores son herramientas esenciales para el monitoreo y la recopilación de datos en tiempo real. En el contexto de nuestro proyecto, que se centra en los principios básicos de los sensores en la implementación del monitoreo, estos dispositivos permiten medir parámetros críticos, desde la temperatura hasta la calidad del aire. Esto no solo facilita la toma de decisiones informadas, sino que también potencia soluciones innovadoras en áreas como la agricultura y la salud. Este informe explorará los fundamentos de los sensores (TRL 1) y su relevancia en nuestro proyecto, destacando su capacidad para transformar industrias y mejorar la calidad de vida.
+
 
 ## 1. DHT22: Sensor de Temperatura y Humedad
-El **DHT22** permite monitorear temperatura y humedad relativa de forma precisa y sencilla a un bajo precio. La salida suministrada es de tipo digital, no requiriéndose utilizar entradas analógicas.
+| **MS5611: Sensor de Presión Barométrica y Altitud**                                                                                       | ![Sensor MS5611](https://github.com/user-attachments/assets/8180267e-f3c2-48dc-ad33-045c09405c13)                          |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| El **MS5611** se basa en la relación entre la presión atmosférica y la altitud, permitiendo convertir la presión en una medida útil para determinar la altura sobre el nivel del mar. |                                                                                                                               |
+
 
 ### Funcionamiento del DHT22
 
@@ -44,7 +49,10 @@ Al implementar un sistema de monitoreo basado en sensores de temperatura y humed
 
 ## 2. MS5611: Sensor de Presión Barométrica y Altitud
 
-El **MS5611** se basa en la relación entre la presión atmosférica y la altitud, así como la capacidad del sensor para convertir la presión en una medida útil para determinar la altura sobre el nivel del mar.
+| **MS5611: Sensor de Presión Barométrica y Altitud**                                                                                       | ![Sensor MS5611](https://github.com/user-attachments/assets/8180267e-f3c2-48dc-ad33-045c09405c13)                          |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| El **MS5611** se basa en la relación entre la presión atmosférica y la altitud, permitiendo convertir la presión en una medida útil para determinar la altura sobre el nivel del mar. |                                                                                                                               |
+
 
 ### Funcionamiento del Sensor MS5611
 
@@ -79,7 +87,10 @@ En nuestro proyecto de la Laguna Palcacocha, el sensor MS5611 se usará para med
 
 ## 3. ML8511: Sensor de Radiación UV
 
-El **ML8511** es un sensor de luz ultravioleta fácil de usar, diseñado para medir la intensidad de la radiación UV. Este sensor es especialmente útil para crear dispositivos que advierten a los usuarios sobre el riesgo de quemaduras solares o que miden el índice UV en relación con las condiciones climáticas.
+| **ML8511: Sensor de Luz Ultravioleta**                                                                                       | ![Sensor ML8511](https://github.com/user-attachments/assets/836bd338-6148-438c-9150-23268aa9aaac)                          |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| El **ML8511** es un sensor de luz ultravioleta fácil de usar, diseñado para medir la intensidad de la radiación UV. Este sensor es especialmente útil para crear dispositivos que advierten a los usuarios sobre el riesgo de quemaduras solares o que miden el índice UV en relación con las condiciones climáticas. |                                                                                                                               |
+
 
 ### Funcionamiento
 
