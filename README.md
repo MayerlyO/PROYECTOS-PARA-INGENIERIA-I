@@ -24,11 +24,11 @@ Somos un grupo de estudiantes de la Universidad Peruana Cayetano Heredia que cur
 
 |            NOMBRE            |            CORREO          | ROLES |
 |------------------------------|----------------------------|---------|
-|  Flores Huaman, Meyli  | Meyli.flores@upch.pe |                     |
-| Huarca Astete, Iory Estefani  | Iory.huarca@upch.pe|
-| Mendoza Canaza, Marco Antonio | Marco.mendoza.canaza@upch.pe |
-| Mayerly Orosco Taype | Mayerly.orosco@upch.pe |
-| Villarreal Zapata, Liz | Liz.villarreal@upch.pe |
+|  Flores Huaman, Meyli  | Meyli.flores@upch.pe | * Interacción con el usuario (whatssap) |
+| Huarca Astete, Iory Estefani  | Iory.huarca@upch.pe| * Integración y adquisición de componentes |
+| Mendoza Canaza, Marco Antonio | Marco.mendoza.canaza@upch.pe | *Implementación e integración de Hardware y software| 
+| Mayerly Orosco Taype | Mayerly.orosco@upch.pe | * Supervición y oprimización de flotabilidad |
+| Villarreal Zapata, Liz | Liz.villarreal@upch.pe | * Elaboración del diseño de interfaz amigable y publicidad |
 
 
 
@@ -74,10 +74,10 @@ Convertirnos en un grupo de estudiantes universitarios que contribuyan en promov
 
 **Descripción:** Se desarrollará un dispositivo con sensores de humedad, temperatura, sensor de luz ultravioleta y presión barométrica  que monitoreará en tiempo real las condiciones ambientales y los niveles de agua, proporcionando alertas tempranas mediante un aplicativo web frente cambios extremos o repentinos que se presenten en la zona de interés, lo que ayudará a prevenir desastres y proteger a los habitantes y sus bienes.
 
-<p align="left">
-  <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="200">
 
-# _INFORME 08: TRL 1 PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACIÓN DEL PROYECTO._          
+
+ ## :green_heart: TRL 1 PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACIÓN DEL PROYECTO:
+  
 En un mundo interconectado, los sensores son herramientas esenciales para el monitoreo y la recopilación de datos en tiempo real. En el contexto de nuestro proyecto, que se centra en los principios básicos de los sensores en la implementación del monitoreo, estos dispositivos permiten medir parámetros críticos, desde la temperatura hasta la calidad del aire. Esto no solo facilita la toma de decisiones informadas, sino que también potencia soluciones innovadoras en áreas como la agricultura y la salud. Este informe explorará los fundamentos de los sensores (TRL 1) y su relevancia en nuestro proyecto, destacando su capacidad para transformar industrias y mejorar la calidad de vida.
 
 
@@ -194,21 +194,20 @@ El ML8511 funciona emitiendo una señal analógica proporcional a la cantidad de
 
 
 ## :green_heart: Referencias bibliográficas: 
-Sensor Altitud Presion Barometrica y Temperatura GY-63 MS5611 I2C. (s/f). Robot Electronica. Recuperado el 24 de octubre de 2024, de https://robot.com.ve/product/sensor-altitud-presion-barometrica-y-temperatura-gy-63-ms5611-i2c/
 
-Adafruit. (n.d.). DHT22 (AM2302) temperature-humidity sensor. https://learn.adafruit.com/dht/overview
+* Autoridad Nacional del Agua [ANA]. (4 de julio de 2020). Perú perdió el 51% de sus glaciares debido al cambio climático.
+* Adafruit. (n.d.). DHT22 (AM2302) temperature-humidity sensor. https://learn.adafruit.com/dht/overview
+* Adafruit. (n.d.). ML8511 - UV light sensor. https://learn.adafruit.com/ml8511-uv-light-sensor/overview
+* MEAS. (n.d.). MS5611-01BA03 - High resolution barometric pressure sensor. https://www.meas-spec.com/documents/MS5611-01BA03.pdf
+* Sensor Altitud Presion Barometrica y Temperatura GY-63 MS5611 I2C. (s/f). Robot Electronica. Recuperado el 24 de octubre de 2024, de https://robot.com.ve/product/sensor-altitud-presion-barometrica-y-temperatura-gy-63-ms5611-i2c/
+* Sensor de presión MS5611 - Altímetro Barómetro. (s. f.). Naylamp Mechatronics - Perú. https://naylampmechatronics.com/sensores-posicion-inerciales-gps/731-sensor-de-presion-ms5611-altimetro-barometro.html
+* SparkFun. (n.d.). DHT22 (AM2302) temperature and humidity sensor. https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
+* SparkFun. (n.d.). ML8511 UV sensor. https://www.sparkfun.com/datasheets/Sensors/ML8511.pdf
+* SparkFun. (n.d.). MS5611 - Barometric pressure sensor. https://learn.sparkfun.com/tutorials/ms5611-barometric-pressure-sensor-hookup-guide
+* Stuart-Smith, R. F., Roe, G. H., Li, S., Allen, M. R. (2021). Increased outburst flood hazard from Lake Palcacocha due to human-induced glacier retreat. Nat. Geosci., 14, 85-90.
 
-SparkFun. (n.d.). DHT22 (AM2302) temperature and humidity sensor. https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf
 
-MEAS. (n.d.). MS5611-01BA03 - High resolution barometric pressure sensor. https://www.meas-spec.com/documents/MS5611-01BA03.pdf
 
-SparkFun. (n.d.). MS5611 - Barometric pressure sensor. https://learn.sparkfun.com/tutorials/ms5611-barometric-pressure-sensor-hookup-guide
-
-SparkFun. (n.d.). ML8511 UV sensor. https://www.sparkfun.com/datasheets/Sensors/ML8511.pdf
-
-Adafruit. (n.d.). ML8511 - UV light sensor. https://learn.adafruit.com/ml8511-uv-light-sensor/overview
-
-Sensor de presión MS5611 - Altímetro Barómetro. (s. f.). Naylamp Mechatronics - Perú. https://naylampmechatronics.com/sensores-posicion-inerciales-gps/731-sensor-de-presion-ms5611-altimetro-barometro.html
 
 
 
