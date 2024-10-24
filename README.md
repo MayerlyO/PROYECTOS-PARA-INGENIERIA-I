@@ -85,7 +85,7 @@ En un mundo interconectado, los sensores son herramientas esenciales para el mon
 
 | DHT22: Sensor de Temperatura y Humedad                                                                                       | ![SENSOR DE T Y H](https://github.com/user-attachments/assets/f85e4d5f-ea92-43c5-acd4-f56f5bd310de)                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| El **DHT22** permite monitorear temperatura y humedad relativa de forma precisa y sencilla a un bajo precio. La salida suministrada es de tipo digital, no requiriéndose utilizar entradas analógicas. |                                                                                                                               |
+| El **DHT22** permite monitorear temperatura y humedad relativa de forma precisa y sencilla a un bajo precio. La salida suministrada es de tipo digital, no requiriéndose utilizar entradas analógicas, está compuesto principalmente por un elemento sensor de temperatura basado en un termistor y un sensor de humedad capacitivo. Este sensor incluye un circuito integrado que procesa las señales de estos elementos y convierte los datos en una salida digital. La carcasa del DHT22 protege los componentes internos y permite la entrada de aire para la medición. |                                                                                                                               |
 
 ### Funcionamiento del DHT22
 
@@ -127,7 +127,7 @@ Al implementar un sistema de monitoreo basado en sensores de temperatura y humed
 
 | **MS5611: Sensor de Presión Barométrica y Altitud**                                                                                       | ![Sensor MS5611](https://github.com/user-attachments/assets/8180267e-f3c2-48dc-ad33-045c09405c13)                          |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| El **MS5611** se basa en la relación entre la presión atmosférica y la altitud, permitiendo convertir la presión en una medida útil para determinar la altura sobre el nivel del mar. |                                                                                                                               |
+| El **MS5611** se basa en la relación entre la presión atmosférica y la altitud, permitiendo convertir la presión en una medida útil para determinar la altura sobre el nivel del mar, está compuesto principalmente por un transductor piezorresistivo de silicio, un circuito integrado que procesa señales electrónicas, y una carcasa de plástico o metal que protege los componentes internos. El diafragma del sensor se deforma bajo presión, generando una señal eléctrica que se convierte en datos digitales para medir la presión y calcular la altitud. |                                                                                                                               |
 
 
 ### Funcionamiento del Sensor MS5611
@@ -165,7 +165,7 @@ En nuestro proyecto de la Laguna Palcacocha, el sensor MS5611 se usará para med
 
 | **ML8511: Sensor de Luz Ultravioleta**                                                                                       | ![Sensor ML8511](https://github.com/user-attachments/assets/836bd338-6148-438c-9150-23268aa9aaac)                          |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| El **ML8511** es un sensor de luz ultravioleta fácil de usar, diseñado para medir la intensidad de la radiación UV. Este sensor es especialmente útil para crear dispositivos que advierten a los usuarios sobre el riesgo de quemaduras solares o que miden el índice UV en relación con las condiciones climáticas. |                                                                                                                               |
+| El **ML8511** es un sensor de luz ultravioleta fácil de usar, diseñado para medir la intensidad de la radiación UV. Este sensor es especialmente útil para crear dispositivos que advierten a los usuarios sobre el riesgo de quemaduras solares o que miden el índice UV en relación con las condiciones climáticas, está compuesto principalmente por un fotodiodo de silicio, que detecta la radiación ultravioleta, y un circuito integrado que amplifica y procesa la señal generada por el fotodiodo. Este sensor incluye una carcasa que protege los componentes internos y permite que la luz UV incida directamente sobre el fotodiodo. |                                                                                                                               |
 
 
 ### Funcionamiento
