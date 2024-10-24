@@ -94,7 +94,7 @@ En un mundo interconectado, los sensores son herramientas esenciales para el mon
    - La capacitancia cambia con la cantidad de vapor de agua en el aire. Esta variación es medida por un microcontrolador interno, que convierte la capacitancia en un valor digital de humedad relativa (%).
 
 2. **Medición de Temperatura**:
-   - Emplea un termistor, cuyo valor de resistencia varía con la temperatura. 
+   - Emplea un termistor (es un resistor que cambia de valor con la temperatura.), cuyo valor de resistencia varía con la temperatura. 
    - El microcontrolador interno mide esta resistencia y la convierte en un valor digital de temperatura en grados Celsius (°C) o Fahrenheit (°F).
 
 3. **Comunicación de Datos**:
