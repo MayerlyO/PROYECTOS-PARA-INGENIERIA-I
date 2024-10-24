@@ -1,6 +1,5 @@
-# UNIVERSIDAD
-![Logo](<Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación 1/z.-Logo Cayetano.png>)
-
+<p align="left">
+  <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="200">
 
 ¡Hola! 👋
 
