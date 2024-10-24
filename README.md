@@ -1,3 +1,7 @@
+# UNIVERSIDAD
+![Logo](<Carpetas_del_Proyecto/Imagenes/A-Carpeta-Presentación 1/z.-Logo Cayetano.png>)
+
+
 ¡Hola! 👋
 
 Bienvenidos a nuestro repositorio de GitHub. Aquí encontrarás todo sobre nuestro proyecto ambiental centrado en el Sistema de Alerta y Monitoreo de los Niveles de Agua en la Laguna de Palcacocha. Este proyecto tiene como objetivo contribuir a la gestión sostenible del agua y la prevención de desastres en áreas vulnerables.
