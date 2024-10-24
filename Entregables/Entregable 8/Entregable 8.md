@@ -1,5 +1,7 @@
-# **TRL 1: PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACION DEL MONITOREO**
-           
+<p align="left">
+  <img src="https://upchvirtual.edu.pe/ued/images/logo-upch.png" width="200">
+
+# _INFORME 08: TRL 1: PRINCIPIOS BÁSICOS DE LOS SENSORES EN LA IMPLEMENTACION DEL PROYECTO._          
 
 ## 1. DHT22: Sensor de Temperatura y Humedad
 El **DHT22** permite monitorear temperatura y humedad relativa de forma precisa y sencilla a un bajo precio. La salida suministrada es de tipo digital, no requiriéndose utilizar entradas analógicas.
