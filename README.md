@@ -193,9 +193,7 @@ El ML8511 funciona emitiendo una señal analógica proporcional a la cantidad de
 
 
 
-
-**:seedling: FUENTES BIBLIOGRÁFICAS:**
-
+## :green_heart: Referencias bibliográficas: 
 Sensor Altitud Presion Barometrica y Temperatura GY-63 MS5611 I2C. (s/f). Robot Electronica. Recuperado el 24 de octubre de 2024, de https://robot.com.ve/product/sensor-altitud-presion-barometrica-y-temperatura-gy-63-ms5611-i2c/
 
 Adafruit. (n.d.). DHT22 (AM2302) temperature-humidity sensor. https://learn.adafruit.com/dht/overview
@@ -211,9 +209,6 @@ SparkFun. (n.d.). ML8511 UV sensor. https://www.sparkfun.com/datasheets/Sensors/
 Adafruit. (n.d.). ML8511 - UV light sensor. https://learn.adafruit.com/ml8511-uv-light-sensor/overview
 
 Sensor de presión MS5611 - Altímetro Barómetro. (s. f.). Naylamp Mechatronics - Perú. https://naylampmechatronics.com/sensores-posicion-inerciales-gps/731-sensor-de-presion-ms5611-altimetro-barometro.html
-
-## :green_heart: Referencias bibliográficas: 
-
 
 
 
