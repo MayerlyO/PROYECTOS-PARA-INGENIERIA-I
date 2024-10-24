@@ -47,7 +47,34 @@ Convertirnos en un grupo de estudiantes universitarios que contribuyan en promov
 </div>
 
 
+ ## :green_heart: Objectivo de Desarrollo Sostenible (ODS): 
 
+  ![ODS13 (2)](https://github.com/user-attachments/assets/5bc56edb-9f8f-4b84-88a8-35a2fdd403a5)
+
+
+### ODS 13: ACCIÓN POR EL CLIMA
+**Descripción:** Frente a los efectos cada vez más severos del cambio climático, como el deshielo de los glaciares que provoca inundaciones perjudiciales tanto para la población como para la flora y fauna, resulta fundamental tomar acciones concretas para mitigar estos riesgos. El ODS 13 (Acción por el clima) se enfoca precisamente en combatir este fenómeno y sus consecuencias, instando a implementar medidas que fortalezcan la capacidad de adaptación y resiliencia ante desastres naturales.
+
+ 
+ ## :green_heart: Definición de la problemática:
+ 
+ ### RIESGO INMINENTE POR UN DESASTRE NATURAL ANTE EL DESBORDAMIENTO DE LA LAGUNA PALCACOCHA POR EL DERRETIMIENTO DEL NEVADO PALCARAJU 
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/83079d88-c741-4487-a9af-f2a30d59c238" width="750">
+
+
+**Descripción:** El incremento del calentamiento global en la provincia de Huaraz - Ancash se ha presentado un rápido derretimiento del glaciar Palcaraju. Según la Autoridad Nacional del Agua (ANA) para el año 2020 se registró una pérdida del 51% de la superficie glaciar. La amenaza de desbordamiento de la laguna Palcacocha representa una amenaza directa para la seguridad y la infraestructura de las poblaciones aledañas. Es importante mencionar que en el año 1941, una inundación repentina destruyó un tercio de la ciudad y causó al menos 1 800 muertes, aparte de multiples daños y pérdidas materiales frente a ello evidente el aumento del riesgo actual, por lo que subrayan la necesidad urgente de acciones para proteger a la población de Huaraz y comunidades aledañas (Stuar-Smith etbal., 2021).
+
+ ## :green_heart: Propuesta de solución: 
+ 
+### SISTEMA DE ALERTA TEMPRANA Y MONITOREO AMBIENTAL DE LA LAGUNA PALPACOCHA 
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/b38f2d24-7ecd-411b-9a5f-01bf2d0e5998" width="350">
+
+
+**Descripción:** Se desarrollará un dispositivo con sensores de humedad, temperatura, sensor de luz ultravioleta y presión barométrica  que monitoreará en tiempo real las condiciones ambientales y los niveles de agua, proporcionando alertas tempranas mediante un aplicativo web frente cambios extremos o repentinos que se presenten en la zona de interés, lo que ayudará a prevenir desastres y proteger a los habitantes y sus bienes.
+
+## :green_heart: Referencias bibliográficas: 
 
 
 
